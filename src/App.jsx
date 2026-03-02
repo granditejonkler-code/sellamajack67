@@ -24,7 +24,7 @@ export default function App() {
               <Gamepad2 className="w-6 h-6 text-black" />
             </div>
             <h1 className="text-2xl font-bold tracking-tight font-display">
-              NEXUS<span className="text-emerald-500">GAMES</span>
+              se.lamma.jack.67
             </h1>
           </div>
 
@@ -141,7 +141,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="p-8 border-t border-white/5 text-center text-zinc-500 text-sm">
-        <p>© {new Date().getFullYear()} Nexus Games. All games are property of their respective owners.</p>
+        <p>© {new Date().getFullYear()} se.lamma.jack.67. All games are property of their respective owners.</p>
       </footer>
     </div>
   );
